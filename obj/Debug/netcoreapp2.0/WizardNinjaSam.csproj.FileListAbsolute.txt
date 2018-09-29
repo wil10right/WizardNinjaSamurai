@@ -1,0 +1,11 @@
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\bin\Debug\netcoreapp2.0\WizardNinjaSam.deps.json
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\bin\Debug\netcoreapp2.0\WizardNinjaSam.runtimeconfig.json
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\bin\Debug\netcoreapp2.0\WizardNinjaSam.runtimeconfig.dev.json
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\bin\Debug\netcoreapp2.0\WizardNinjaSam.dll
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\bin\Debug\netcoreapp2.0\WizardNinjaSam.pdb
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\obj\Debug\netcoreapp2.0\WizardNinjaSam.csprojResolveAssemblyReference.cache
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\obj\Debug\netcoreapp2.0\WizardNinjaSam.csproj.CoreCompileInputs.cache
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\obj\Debug\netcoreapp2.0\WizardNinjaSam.AssemblyInfoInputs.cache
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\obj\Debug\netcoreapp2.0\WizardNinjaSam.AssemblyInfo.cs
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\obj\Debug\netcoreapp2.0\WizardNinjaSam.dll
+C:\Users\wilen\Desktop\SeeSharp\WizardNinjaSam\obj\Debug\netcoreapp2.0\WizardNinjaSam.pdb
